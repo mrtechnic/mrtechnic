@@ -24,7 +24,7 @@ I am a software developer with over 6 years of hands-on experience building robu
 
 ### 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=mrtechnic&theme=radical&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=mrtechnic&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=mrtechnic&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
