@@ -28,9 +28,6 @@ I am a software developer with over 6 years of hands-on experience building robu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtechnic&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📝 Latest Articles
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 💬 **Let's Connect:** Reach out if you want to chat about system architecture, latency optimization, or new challenging projects!
