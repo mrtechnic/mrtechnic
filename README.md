@@ -1,6 +1,6 @@
 # Hi there, I'm Mr. Technic 👋
 
-I am a software developer with over 6 years of hands-on experience building robust backend architectures, optimizing latency-critical applications, and integrating complex APIs. I am presently looking for projects that can challenge me and push my technical boundaries. 
+I am a backend developer with over 6 years of hands-on experience building robust backend architectures, optimizing latency-critical applications, and integrating complex APIs. I am presently looking for projects that can challenge me and push my technical boundaries. 
 
 ### 🚀 What I do
 *   **Architecture:** Designing multi-service architectures encompassing backend APIs, worker services, and AI agents.
